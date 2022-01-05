@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I'm a certified data scientist who loves building machine learning models to solve health problems 
 - 🌱 I’m currently learning application of deep learning and neural networks in healthcare
 - 👯 I’m looking to collaborate on projects related to computational biology
